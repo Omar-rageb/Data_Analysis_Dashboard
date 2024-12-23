@@ -77,6 +77,9 @@ Below is a snippet of the final dashboard created in Excel:
 4.	Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential. 
 5.	Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
 
+##road accident interactive dashboard ▶🎦
+
+
 ## End
 
 
