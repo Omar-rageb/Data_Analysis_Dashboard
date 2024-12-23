@@ -44,7 +44,8 @@ Below is an excerpt from the Data Analysis Sheet.
 The dashboard was ultimately developed by integrating and customizing pivot charts derived from the corresponding pivot tables. To enhance user experience and interactivity, we incorporated slicers and timelines. Additionally, hyperlinks and connections were added to essential icons to facilitate seamless navigation.
 
 Below is a snippet of the final dashboard created in Excel
-!
+![image](https://github.com/user-attachments/assets/5c10cf22-cd2d-48d8-8264-caf9470ebbab) </a>
+
 
 
   
