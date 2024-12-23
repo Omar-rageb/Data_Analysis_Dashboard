@@ -79,7 +79,7 @@ Below is a snippet of the final dashboard created in Excel:
 
 ##road accident interactive dashboard ▶🎦
 
-<a ![image](https://github.com/user-attachments/assets/a1743345-4ba8-48b5-b293-4e8c1ba54f68)> interactive dashboard </a>
+<a href="https://github.com/user-attachments/assets/a1743345-4ba8-48b5-b293-4e8c1ba54f68"> interactive dashboard </a>
 
 
 
