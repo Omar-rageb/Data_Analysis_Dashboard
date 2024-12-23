@@ -52,7 +52,8 @@ Below is a snippet of the final dashboard created in Excel:
 
 ## Key Insights
 
-📈 **Total Casualties Analysis:** The dashboard indicates a significant total of 417,883 casualties resulting from accidents over the two-year period.
+📈 **Total Casualties Analysis:** The dashboard indicates a significant total of ## 417,883
+casualties resulting from accidents over the two-year period.
 
 📅 **Peak Months:** The overall number of casualties was slightly higher in 2021 compared to 2022. The highest number of casualties occurred in October and November of both years, while January and February recorded the lowest figures.
 
