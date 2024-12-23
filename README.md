@@ -37,8 +37,7 @@ Created a "Data Analysis" sheet to summarize all the pivot table Data for a new 
 
 Below is a snippet of the Data Analysis Sheet
 
-![Data Analysis](![image](https://github.com/user-attachments/assets/dda7cc83-28b8-45f1-aed6-8588b48df9a7)
-)
+![Data Analysis]()
 
 
   
