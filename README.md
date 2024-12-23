@@ -79,6 +79,8 @@ Below is a snippet of the final dashboard created in Excel:
 
 ##road accident interactive dashboard ▶🎦
 
+![image](https://github.com/user-attachments/assets/a696c045-ce9e-4cc4-9d3a-792947b4bd44)</a>
+
 
 ## End
 
