@@ -32,19 +32,25 @@ This stage began with getting to know the dataset and checking for any data qual
 3.	Made sure data is consistent and clean with respect to data type, data format and values used.
 4.	Creating 2 new attributes 'Year' and 'Month' were added for logical and easy interpretation of dataset.
 
+
 ## Data Analysis
 Created a "Data Analysis" sheet to summarize all the pivot table Data for a new user or developer or client to ease their work and gathered information. On this sheet nine pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between number of casualties and many factors such as- casualty type, vehicle type, road type, location etc. Monthly trends were also analysed for the years 2021 and 2022.
 
-Below is an excerpt from the Data Analysis Sheet.
+Below is an excerpt from the Data Analysis Sheet:
 
  ![image](https://github.com/user-attachments/assets/6906aa8d-a9b7-4ed6-aa26-88f2083d729d) </a>
+
+
 
  ## Data Visualization
 
 The dashboard was ultimately developed by integrating and customizing pivot charts derived from the corresponding pivot tables. To enhance user experience and interactivity, we incorporated slicers and timelines. Additionally, hyperlinks and connections were added to essential icons to facilitate seamless navigation.
 
-Below is a snippet of the final dashboard created in Excel
+Below is a snippet of the final dashboard created in Excel:
+
 ![image](https://github.com/user-attachments/assets/5c10cf22-cd2d-48d8-8264-caf9470ebbab) </a>
+
+
 
 
 
